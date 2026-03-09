@@ -1,5 +1,17 @@
 # Project Name: ValueMatrix
 
+
+#Project Run Steps frontend
+
+   step1: opne Terminal select and write "cd client"
+   step2: Write npm start
+ 
+#Project Run Steps frontend
+
+   step1:  opne Terminal select and write "cd server"
+   step2: Write node server.js
+
+   
 ## MongoDB Connection Steps
 
 1. **Create a MongoDB Atlas Account**
